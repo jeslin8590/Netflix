@@ -1,0 +1,288 @@
+.firstsection{
+    background-image:linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%), url(images/IN-en-20230529-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    height: 100vh;  
+    background-size: cover;
+    font-family: sans-serif;
+}
+.logo img{
+    /* height: 150px; */
+    width:200px; 
+    margin-left: -300px;
+}
+.logo{
+    margin-left: 200px;    
+}
+/* .language{ */
+    /* margin-left: 200px;
+    border: 0;
+    color: red; */
+/* } */
+select{
+    background-color: black;
+    background-color: transparent;
+    color: white;
+    height: 30px;
+    width: 90px;
+    margin-top: 20px;
+
+  
+}
+.sign{
+    background-color: red;
+    color: white;
+    height: 35px;
+    width: 100px;
+    border-radius: 5px;
+
+
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 0% 10% 0% 10%; 
+}
+.content{
+    color: white;
+    text-align: center;
+    padding: 150px;
+    font-size: 150%; 
+    margin-top: -50px;
+}
+span{
+    text-transform: uppercase;
+}
+input{
+    height: 50px;
+    width: 400px;
+    background-color: rgb(65, 59, 59);
+    border-radius: 5px;
+    color: rgb(165, 143, 143);
+    background-color: transparent;
+}
+.start{
+    height: 50px;
+    width: 180px;
+    background-color: red;
+    border-radius: 5px;
+    font-size: large;
+    color: white;
+}
+.secondsection{
+    /* display: flex; */
+    background-color: black;
+    color: white;
+    margin-top: -9px;
+    height: 70vh;
+}
+.parent{
+    display: flex
+}
+.content2{
+    /* margin-top: -1rem; */
+    /* margin-bottom: ; */
+    /* margin-left: 90px; */
+    /* margin-top: 80px; */
+    margin-top: 30px;
+    margin-left: 150px;
+    padding-top: 5%;
+}
+.page2{
+    font-weight:bolder;
+    font-size: 50px;
+}
+hr{
+    height: 10px;
+    background-color: rgb(54, 50, 50);
+    margin-top: -11px;
+}
+/* .tvimage img{
+    margin-top: -10px;
+    height: 300px;
+    width: 400px;
+    margin-left: 150px;
+} */
+.thirdsection{
+    background-color: black;
+    margin-top: -9px;
+    height: 70vh;
+    }
+.second-parent{
+    display: flex;
+}
+.page3{
+    color: white;
+}
+/* .thirdsection{
+    display: flex; */
+/* } */
+.sechead{
+    color: white;
+}
+.content3{ 
+    text-align: center;
+    /* margin-top: 150px;
+    margin-left: 90px; */
+    padding-top: 6%;
+    padding-left: 10%;
+}
+.mobile{
+    margin-left: -30px;
+}
+.mobile img{ 
+    height: 300px;
+    width: 400px;
+    margin-left: 40px;
+    padding-top: 6%;
+    padding-left: 15%;
+}
+.page3{
+    font-weight: bolder;
+    font-size: 50px;
+}
+.pagethree{
+    font-size: 30px;
+
+}
+.fourthsection{
+    background-color: black;
+    color: white;
+    margin-top: -9px;
+    height: 70vh;
+    padding: 20%,5%,10%,3%;
+}
+
+.third-parent{
+    display: flex;
+}
+.content4{
+    margin-top: 30px;
+    margin-left: 150px;
+    align-items: center;
+}
+.page4{
+    font-size: 50px;
+    font-weight: bolder;
+    margin-left: 40px;
+}
+.fifthsection{
+    background-color: black;
+    color: white;
+    margin-top: -9px;
+    height: 80vh;
+}
+.childrens img{
+    height: 300px;
+    width: 400px;
+    margin-left: 80px;
+    margin-top: 90px;
+}   
+.fourth-parent{
+    display: flex;
+}
+.kids{
+    font-size: 60px;
+    font-weight: bolder;
+}
+.sixthsection{
+    background-color: black;
+    width: 98vw;
+    height: 65vw;
+    margin-top: -5x;
+    margin-top: -33px;
+    font-family: sans-serif;
+}
+.mainheading{
+    color: white;
+    text-align: center;
+    padding: 50px;
+    font-size: 3rem;
+    font-weight: 900;
+    text-transform: capitalize;
+    
+}
+.content6{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid white;
+    height: 4.5rem;
+    width: 70%;
+    background-color: rgb(56, 51, 51);
+    margin-top: .5rem;
+    margin-left: 15rem;
+    
+
+}
+.firt-part{
+    margin-top: 20px;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    margin-left: 20px;
+    text-align: center;
+
+}
+.icon{
+    /* margin-top: 30px;
+    size: 10rem; */
+    padding: 3% 2% 0% 0%;
+
+}
+.boxes{
+    margin-top: -20px;
+    /* padding: 10px; */
+}
+.content6:hover{
+    background-color: rgb(104, 97, 97);
+}
+.sixthsection-bottom input{
+    margin-left: 35%;
+    margin-bottom: 50%;
+
+}
+.mail{
+    color: white;
+    font-weight: 50;
+    font-size: 1.3rem;
+    word-spacing: .5px;
+    padding-left: 400px;
+    margin-top: 50px;
+}
+button:hover{
+    background-color: rgb(144, 10, 10);
+}
+.list{
+    display: flex;
+    color: white;
+    list-style-type: none;
+    justify-content: space-evenly;
+    text-decoration: underline;
+    
+}
+.end-section{
+    background-color: black;
+    height: 30vw;
+    color: white;
+    margin-top: -9px;
+}
+li{
+    padding: 10px;
+}
+.second-list{
+    margin-top: 70px;
+    margin-right: 60px;
+}
+.third-list{
+    margin-top: 70px;
+}
+.language1{
+    margin-left: 235px;
+    background-color: black;
+    color: white;
+    height: 100px;
+    width: 150px;
+}
+.last{
+     margin-left: 235px;
+}
+
